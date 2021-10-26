@@ -1,0 +1,14 @@
+
+ - présentation ppt montrant la différance React vs ReactNative avec demo.
+ - présentation flutter avec demo (Hello word).
+ - présentation Progessive Web Application (PWA).
+ - présentation Kotlin avec différence avec Java + demo.
+- présentation POO avec des exemples.
+
+ - présentation Html/Css avec demo.
+ - présentation JavaScript.
+ - présentation UML. 
+ - présentation SQL (merise).
+ - présentation xml et Json 
+ - présentation Design pattern.
+ 

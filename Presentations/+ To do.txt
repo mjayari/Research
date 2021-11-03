@@ -3,12 +3,30 @@
  - présentation flutter avec demo (Hello word).
  - présentation Progessive Web Application (PWA).
  - présentation Kotlin avec différence avec Java + demo.
-- présentation POO avec des exemples.
+ - présentation POO avec des exemples.
+ - présentation méthode Agile +projet scrum.
+ - présentation clean architecture.
+ - présentation MVVM /MVP /MVC. 
+ - présentation comparasion entre MVVM et MVP
+
+ - présentation MVI 
+ - présentation google architecture.
+ - présentation jetpack compose.
+
+ - présentation solid architecture.
+ - présentation jenkins
+ - présentation Ui/UX
+
+
 
  - présentation Html/Css avec demo.
  - présentation JavaScript.
+ - présentation Angular.
  - présentation UML. 
  - présentation SQL (merise).
  - présentation xml et Json 
  - présentation Design pattern.
+ - présentation Swift / Objective-C
+ - présentation Firebase Services 
+
  
